@@ -13,6 +13,6 @@
     "morgan": "~1.9.1",
     "plyr": "^3.4.0-beta.1",
     "pug": "2.0.0-beta11",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   }
 }
